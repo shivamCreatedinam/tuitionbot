@@ -10,7 +10,7 @@ import { enableLatestRenderer } from 'react-native-maps';
 import { firebase } from '@react-native-firebase/database';
 import RNOtpVerify from 'react-native-otp-verify';
 const Urls = require('./urls.json');
-
+// second phase changes started | 19-oct-2024
 enableLatestRenderer();
 
 let config = {
