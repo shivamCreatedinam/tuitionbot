@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "592431823032",
+    "firebase_url": "https://tuition-bot-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "tuition-bot",
+    "storage_bucket": "tuition-bot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592431823032:android:06d6b39d79dc0c7ed95c4d",
+        "android_client_info": {
+          "package_name": "com.createdinam.professionbeat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUBR6Sx-WdSo1QaN2Z6ag6rqjqeXAdrIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
